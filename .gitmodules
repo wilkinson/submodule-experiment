@@ -1,0 +1,3 @@
+[submodule "formalin"]
+	path = formalin
+	url = https://github.com/wilkinson/formalin.git
